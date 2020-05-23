@@ -42,7 +42,7 @@ body{
   width: 100%;
   max-width: 100%;
   position: absolute;
-  top:38%;
+  top:28%;
   z-index: 1;
   color:white;
   text-transform: uppercase;
@@ -65,19 +65,13 @@ body{
   padding: .6rem 1.3rem;
   font-size: 1.1rem;
 }
-.lead{
+/*.lead{
   text-align: justify;
   margin-top: 5rem;
   margin-right: 8rem;
   margin-left: 8rem;
   margin-bottom: 5rem;
-}
-.product-cluster{
-
-  background-color: white;
-  border-radius:20px;
-  margin: 3rem 3rem 3rem 3rem;
-}
+}*/
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
